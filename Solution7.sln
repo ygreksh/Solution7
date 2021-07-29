@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHashCodeAndEquals", "GetHashCodeAndEquals\GetHashCodeAndEquals.csproj", "{F259CF29-8BAE-4D8F-ACC3-A1AD2911ACBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F259CF29-8BAE-4D8F-ACC3-A1AD2911ACBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F259CF29-8BAE-4D8F-ACC3-A1AD2911ACBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F259CF29-8BAE-4D8F-ACC3-A1AD2911ACBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F259CF29-8BAE-4D8F-ACC3-A1AD2911ACBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
